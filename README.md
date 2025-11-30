@@ -55,8 +55,8 @@
 ---
 
 ## 💌 Contact Me  
-- 📧 Email: **alaaabdشllah3336@gmail.com**  
-- 💼 LinkedIn: *coming soon* ✨  
+- 📧 Email: **alaaabdallah3336@gmail.com**  
+- 💼 LinkedIn:www.linkedin.com/in/alaa-abdallah-fullstack133 
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/0e/07/27/0e0727e8e98b1eb2bd368cc9fe2f2fc8.gif" width="200" />
