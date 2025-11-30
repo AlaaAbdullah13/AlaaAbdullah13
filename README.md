@@ -1,66 +1,65 @@
-# AlaaAbdullah
-<h1 align="center">👋 Hi, I'm Alaa Abdullah</h1>
+<h1 align="center">✨ Hi, I'm Alaa Abdullah ✨</h1>
 
 <p align="center">
-  🚀 Open Source Application Developer | ITI Trainee  
+  <em>Open Source Developer | ITI Trainee | C++ & Frontend Enthusiast</em>
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5f97f2f60e6a5d574533a1a89a5.gif" width="500"/>
-</p>
-
----
-
-## 👩‍💻 About Me
-- 🎓 Currently training at **ITI – Open Source Application Development Track**  
-- 💻 Working on multiple **C++ projects** & systems-related tasks  
-- 🌱 Improving my Frontend skills (**HTML, CSS, JavaScript**)  
-- 🛢 Learning database concepts & working with **SQL**  
-- 🧠 Interested in low-level computing, problem solving, and open-source technologies  
-- 📚 Always learning & building real projects to grow my skills  
-
----
-
-## 🛠 Tech Stack
-
-### **Programming & Development**
-- C++  
-- HTML • CSS • JavaScript  
-- SQL  
-
-### **Core Computer Science**
-- Operating Systems  
-- Database Concepts  
-
-### **Tools**
-- Git & GitHub  
-- VS Code  
-- Linux  
-
----
-
-## 📌 Featured Work
-> Here are some areas I frequently work on:
-
-- 🔹 C++ system-level tasks  
-- 🔹 Data structures & memory management  
-- 🔹 Problem solving & algorithmic thinking  
-- 🔹 Small frontend apps & components  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alaaabdullah&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah&layout=compact&theme=tokyonight" />
+  <img src="https://i.pinimg.com/originals/1d/70/51/1d7051bf9c1e88f192d08bc7569b0ce7.gif" width="350" />
 </p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **alaaabdullah@gmail.com** *(غيّريه لو مختلف)*  
-- 🌐 Portfolio (coming soon)
+## 💖 About Me
+- 🎀 ITI Trainee – **Open Source Application Development**
+- 💻 I build projects in **C++**, memory management, & system concepts  
+- 🌸 Leveling up my **Frontend** (HTML, CSS, JavaScript)
+- 🎀 Learning **SQL, Operating Systems, Databases**
+- 💫 Love soft coding vibes & aesthetic clean designs
 
 ---
 
-<p align="center">✨ Thanks for visiting my profile ✨</p>
+### 🎀 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
+  <img src="https://skillicons.dev/icons?i=html" width="45" />
+  <img src="https://skillicons.dev/icons?i=css" width="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45" />
+</p>
+
+### 🎀 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
+  <img src="https://skillicons.dev/icons?i=linux" width="45" />
+  <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</p>
+
+---
+
+## 🌸 Featured Interests
+- 🌼 C++ console apps & system-level programming  
+- 🌼 Frontend mini projects  
+- 🌼 Problem solving  
+- 🌼 Databases & SQL basics  
+
+---
+
+## 🌟 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alaaabdullah&show_icons=true&theme=rose_pine" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## 💌 Contact Me  
+- 📧 Email: **alaaabdشllah3336@gmail.com**  
+- 💼 LinkedIn: *coming soon* ✨  
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0e/07/27/0e0727e8e98b1eb2bd368cc9fe2f2fc8.gif" width="200" />
+</p>
+
+<p align="center">💖✨ Thanks for visiting my profile ✨💖</p>
