@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1d/70/51/1d7051bf9c1e88f192d08bc7569b0ce7.gif" width="350" />
+  <img src="https://i.pinimg.com/564x/1a/92/22/1a92228b3b88f0ddf4e05351d6d045df.jpg" width="350" style="border-radius: 12px;" />
 </p>
 
 ---
@@ -19,21 +19,23 @@
 
 ---
 
+## 💗 Tech Stack (Cute Icons)
+
 ### 🎀 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" width="45" />
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
 </p>
 
 ### 🎀 Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="45" />
-  <img src="https://skillicons.dev/icons?i=linux" width="45" />
-  <img src="https://skillicons.dev/icons?i=git" width="45" />
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="45"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </p>
 
 ---
@@ -46,12 +48,20 @@
 
 ---
 
+## 🌟 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlaaAbdullah13&show_icons=true&cache_seconds=60" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
 ## 💌 Contact Me  
-- 📧 Email: **alaaabdallah3336@gmail.com**  
-- 💼 LinkedIn:www.linkedin.com/in/alaa-abdallah-fullstack133 
+📧 **alaaabdallah3336@gmail.com**  
+
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0e/07/27/0e0727e8e98b1eb2bd368cc9fe2f2fc8.gif" width="200" />
+  <img src="https://i.pinimg.com/originals/0e/07/27/0e0727e8e98b1eb2bd368cc9fe2f2fc8.gif" width="200"/>
 </p>
 
 <p align="center">💖✨ Thanks for visiting my profile ✨💖</p>
