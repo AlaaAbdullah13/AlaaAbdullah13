@@ -48,8 +48,8 @@
 
 ## 🌟 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alaaabdullah&show_icons=true&theme=rose_pine" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah&layout=compact&theme=rose_pine" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alaaabdullah13&show_icons=true&theme=rose_pine" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdullah13&layout=compact&theme=rose_pine" />
 </p>
 
 ---
